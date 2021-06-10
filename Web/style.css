@@ -1,0 +1,97 @@
+/* selector { */
+body {
+   margin: 0;}
+
+h1 {
+   font-family: 'Lato', sans-serif;
+	text-align: center;
+   color: rgb(61, 173, 85);}
+
+h3 {
+   font-family: 'Roboto Slab', serif;
+	text-align: center;
+   color: rgb(250, 205, 17);}
+
+#preferencias {
+   text-align: center;}
+
+#fondo {
+   background-color: rgb(239, 246, 250);
+   padding: 5px;}
+
+h2 {
+   font-family: 'Roboto Slab', serif;
+   text-align: center;
+   color: rgb(250, 56, 141);}
+
+#foto {
+   background-color: white;
+   text-align: center;
+   padding: 20px;
+   box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+   margin: 8px;}
+
+.container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   object-fit: cover;}
+
+.card-white {
+   background: white;
+   box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+   border-radius: 4px;
+   width: 200px;
+   text-align: center;
+   padding: 30px;
+   margin: 15px;
+   color: rgb(250, 205, 17);}
+
+.card-white img {
+   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+   width: 200px;
+   height: 190px;
+   object-fit: cover;
+   object-position: bottom;
+   border-radius: 4px;
+   }
+
+#mapa img {
+   background: white;
+   width: 600px;
+   object-fit: cover;
+   object-position: bottom;
+   box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+   margin: 10px 30px 30px;}
+
+.button-blue {
+   color: white;
+   text-decoration: none;
+   background-color: rgb(61, 173, 85);
+   padding: 10px 10px;
+   border-radius: 15px;
+   display: inline-block;
+   transition: 0.5s;}
+
+.button-blue:hover {
+   background-color: rgb(128, 206, 250);
+   color: white;}
+
+#instagram {
+   text-align: center;
+   font-size: 31px;
+   color: rgb(250, 56, 141);}
+
+.lista {
+   text-align: center;
+
+   
+
+
+
+
+
+
+
+   
